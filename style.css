@@ -1,0 +1,17 @@
+#message {
+	background-color: rgb(255, 251, 204); 
+	margin:15px;
+	padding:15px;
+}
+#message.error {
+	background-color: rgb(218, 79, 33);
+}
+.wrap .disabled {
+	background-color: #FFCCCC;
+}
+h3 {
+	clear:both;
+}
+#WPMUPrefillPostExcerpt {
+	width:100%
+}
